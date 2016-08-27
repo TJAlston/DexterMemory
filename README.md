@@ -1,18 +1,2 @@
-# App App.
-
-The Boilerplate.
-
-## How do you use this?
-
-```
-git clone git@github.com:tiy-tpa-fee/app-app.git my-project-name
-cd my-project-name
-
-trash .git
-
-npm install
-
-git init
-
-// Do your thing...
-```
+# DexterMemory
+>>>>>>> 1dfff6867f9ef97ba2628a37aaa07ad5199123f4
