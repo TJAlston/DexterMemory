@@ -1,0 +1,37 @@
+
+{
+  "Photos": [
+    {
+      "name": "Dexter Wallpaper",
+      "imageUrl": "http://wallpaper.zone/img/2939482.jpg",
+      "cardsImages": [
+        {
+          "name": "DexterS1",
+          "url": "http://www.sydneyhotelsaccommodation.com/images/RydgesPerth-SpaSuite1.jpg"
+        },
+        {
+          "name": "DexterS2",
+          "url": "http://www.sydneyhotelsaccommodation.com/images/RydgesPerth-SpaSuite1.jpg"
+        },
+        {
+          "name": "DexterS3",
+          "url": "http://www.sydneyhotelsaccommodation.com/images/RydgesPerth-SpaSuite2.jpg"
+        },
+        {
+          "name": "DexterS4",
+          "url": "http://www.pilgrimtours.sk/upload/hotel-kempinski-riverpark-bratislava-accommodation-in-slovakia-luxury-rooms-apartments/hotel-kempinski-riverpark-bratislava-accommodation-in-slovakia-luxury-rooms-apartments-en-big-Web_Kempinski-Hotel-River-Park-BratislavaDanube-Suitea.jpg"
+        },
+        {
+          "name": "DexterS5",
+          "url": "http://www.vip.sk/images/uploads/Kempinski_Hotel_River_Park_Bratislava_Deluxe_Suite.jpg"
+        },
+        {
+          "name": "DexterS6",
+          "url": "http://www.jtre.sk/sites/default/files/2_40.jpg"
+        },
+        {
+          "name": "Dexter",
+          "url": "http://www.jtre.sk/sites/default/files/2_40.jpg"
+        }
+      ]
+    },

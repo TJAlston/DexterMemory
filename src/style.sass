@@ -1,24 +1,39 @@
 body
-  background-color: #9999ff
+  background-image: url('http://orig09.deviantart.net/6b8a/f/2009/070/1/8/dexter_wallpaper_by_conniechan.jpg')
+  background-size: cover
   color: white
+  width: 100vw
+  height: 100vh
 
 h1
   text-align: center
+  color: red
+  text-transform: uppercase
 
 .card
-  border: solid 8px blue
-    radius: 8px
-  height: 100px
-  width: 100px
+  margin: 20px
+  border: solid 2px rgb(198, 232, 233)
+    border-radius: 2px
+  height: 225px
+  width: 115px
   text-align: center
-  line-height: 100px
+  line-height: 130px
+
+  &.DexterS1 &.up
+      background-color: purple
+      background-image: url(https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png)
+      background-size: cover
 
   &.up
     background-color: white
-    color: purple
+    background-size: cover
 
   &.down
-    background-color: purple
+    background-color: rgb(223, 224, 221)
+    background-image: url('http://cdn.24.co.za/files/Cms/General/d/2659/0f68158f1e2d4426a2d0d638bb44a226.jpg')
+    background-size: contain
+    background-repeat: no-repeat
+    padding-bottom: -20px
     color: transparent
 
 main
@@ -27,3 +42,4 @@ main
     direction: row
     wrap: wrap
   justify-content: space-around
+  margin: 100px

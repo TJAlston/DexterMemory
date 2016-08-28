@@ -1,4 +1,4 @@
-0 info it worked if it ends with ok
+git status0 info it worked if it ends with ok
 1 verbose cli [ '/usr/local/Cellar/node/6.3.0/bin/node',
 1 verbose cli   '/usr/local/bin/npm',
 1 verbose cli   'start' ]
