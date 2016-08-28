@@ -9,16 +9,17 @@ class App extends React.Component {
     super()
     this.state = {
       cards: [
-        {img className='DexterS1' src='https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png' alt='' height='225' width='115'/},
+        <img className='DexterS1'
+        src='https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png' alt='' height='225' width='115'/>,
         <img className='DexterS2' src='https://upload.wikimedia.org/wikipedia/en/6/6f/Dexter_season_2_DVD.png' alt='' height='225' width='115'/>,
         <img className='DexterS3' src='https://moviefull-hd.com/images/2015/12/Watch-Dexter-Season-3-Online.jpg' alt='' height='225' width='115'/>,
         <img className='DexterS4' src='https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Dexter_S4_DVD.jpg/220px-Dexter_S4_DVD.jpg' alt='' height='225' width='115'/>,
-        <img className='Dexter5' src='http://67.media.tumblr.com/tumblr_maw1tct5jg1ry1uroo5_1280.jpg' alt='' height='225' width='115'/>,
+        <img className='DexterS5' src='http://67.media.tumblr.com/tumblr_maw1tct5jg1ry1uroo5_1280.jpg' alt='' height='225' width='115'/>,
         <img className='DexterS1' src='https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png' alt='' height='225' width='115'/>,
         <img className='DexterS2' src='https://upload.wikimedia.org/wikipedia/en/6/6f/Dexter_season_2_DVD.png' alt='' height='225' width='115'/>,
         <img className='DexterS3' src='https://moviefull-hd.com/images/2015/12/Watch-Dexter-Season-3-Online.jpg' alt='' height='225' width='115'/>,
         <img className='DexterS4' src='https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Dexter_S4_DVD.jpg/220px-Dexter_S4_DVD.jpg' alt='' height='225' width='115' />,
-        <img className='Dexter5' src='http://67.media.tumblr.com/tumblr_maw1tct5jg1ry1uroo5_1280.jpg' alt='' height='225' width='115'/>
+        <img className='DexterS5' src='http://67.media.tumblr.com/tumblr_maw1tct5jg1ry1uroo5_1280.jpg' alt='' height='225' width='115'/>
         // 'Jake',
         // 'Princess Bubblegum',
         // 'Finn',
