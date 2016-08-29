@@ -90,6 +90,7 @@ class App extends React.Component {
       </div>
     } else {
       return <div>
+        <h1>MEMORY</h1>
         <h2> YOU WIN!!! </h2>
         <div classname="WINBG"></div>
         </div>
