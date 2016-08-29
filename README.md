@@ -1,2 +1,2 @@
 # DexterMemory
->>>>>>> 1dfff6867f9ef97ba2628a37aaa07ad5199123f4
+  I am a huge Dexter fan!  If you are as well you will like this fun little memory game I made. Enjoy!
