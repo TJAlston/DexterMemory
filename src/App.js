@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.sass'
 import Card from './Card'
-// import Cards from './Cards.json'
+
 const SHOW_TIME = 1500
 
 class App extends React.Component {
