@@ -1,29 +1,38 @@
 body
   background-image: url('http://orig09.deviantart.net/6b8a/f/2009/070/1/8/dexter_wallpaper_by_conniechan.jpg')
+  background-attachment: fixed
   background-size: cover
   color: white
   width: 100vw
   height: 100vh
-  overflow: hidden
+  overflow-x: hidden
 
 h1
-  margin-top: -10px
+  margin: -190px 0px 0px 450px
+  position: fixed
   font-family: 'arial black'
-  font-size: 120px
+  font-size: 10vw
   text-align: center
   text-shadow: 7px 7px 7px rgb(136, 16, 43)
   color: rgb(241, 219, 226)
   text-transform: uppercase
-  margin-right: -250px
   letter-spacing: -5px
   margin-bottom: 20px
+
+@media (min-width:640px) and (max-width:1000)
+h1
+  margin: -190px 0px 0px 425px
+
+@media screen and (max-width:1200)
+h1
+  margin: -190px 0px 0px 475px
 
 .card
   margin: 5px
   border: solid 3px rgb(198, 232, 233)
     border-radius: 2px
-  height: 140px
-  width: 95px
+  height: 120px
+  width: 75px
   text-align: center
   margin-bottom: 5px
 
@@ -49,6 +58,8 @@ main
   flex-direction: column
   flex-direction: row
   overflow: hidden
+  width: 800px
+  margin-top: 180px
 
 
 h2
